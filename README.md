@@ -1,10 +1,13 @@
 # Template_Three
-<h2>Demo</h2>
-<a href="https://mohammedelsisi21.github.io/Template_Three/">https://mohammedelsisi21.github.io/Template_Three/</a>
-<h2>Project Description</h2>
-<p>HTML And CSS By Elzero web school</p>
-<p>This project is fully responsive and adapts seamlessly to all device sizes, including desktops, tablets, and mobile devices.</p>
+
+## Demo
+[Go to Demo](https://mohammedelsisi21.github.io/Template_Three)
+
+## Project Description
+> HTML And CSS By Elzero web school
+> 
+> This project is fully responsive and adapts seamlessly to all device sizes, including desktops, tablets, and mobile devices.
 
 
-<h2>Project Screenshot</h2>
-<img src="./images/GitHub.png">
+## Project Screenshot
+![Project Screenshot](./images/GitHub.png)
